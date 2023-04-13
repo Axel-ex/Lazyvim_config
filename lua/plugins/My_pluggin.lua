@@ -1,6 +1,7 @@
 return {
   -- add arduino ide
   { "stevearc/vim-arduino" },
+  { "sudar/vim-arduino-syntax" },
 
   -- ChatGPT
   {

@@ -203,6 +203,7 @@ return {
         "shfmt",
         "flake8",
         "clangd",
+		"arduino-language-server"
       },
     },
   },
