@@ -12,4 +12,6 @@ return {
   { "MunifTanjim/nui.nvim" },
   { "nvim-lua/plenary.nvim" },
   { "nvim-telescope/telescope.nvim" },
+
+  { "sakhnik/nvim-gdb" },
 }
